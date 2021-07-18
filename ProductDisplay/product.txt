@@ -1,0 +1,24 @@
+T-shirt
+Enjoy all day comfort and effortless style in this Flenco Comm tee for men. It's Cotton crafting gives you supreme comfort and it comes with bold ...
+jeans
+Fab India - Offering Regular Urban Desire Mens Denim Jeans at Rs 450/piece in Kanpur, Uttar Pradesh. Read about company. Get contact details and ...
+sweatshirt
+When it comes to cosy fashion to fight the cold weather, there’s nothing better than a classic men’s hoodie sweatshirt. With our wide assortment of sweatshirts and hoodies for men, beat the winter chill in stride.
+<div class="d-flex flex-row bd-highlight mb-3">
+		<div class="p-2 bd-highlight">Flex item 1</div>
+		<div class="image"> 
+			<img src="file:///C:/Users/Rushikesh/Documents/Task%202/images/T-Shirt.jpg">
+	
+		</div> 
+		<div class="title"></div>
+	  <h1>T-shirt</h1>
+	<div class="button"></div>
+	<button>Read More...</button>
+		<div class="p-2 bd-highlight">Flex item 2</div>
+		<div class="p-2 bd-highlight">Flex item 3</div>
+	  </div>
+	  <div class="d-flex flex-row-reverse bd-highlight">
+		<div class="p-2 bd-highlight">Flex item 1</div>
+		<div class="p-2 bd-highlight">Flex item 2</div>
+		<div class="p-2 bd-highlight">Flex item 3</div>
+	  </div>
